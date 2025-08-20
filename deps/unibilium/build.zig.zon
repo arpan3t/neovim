@@ -5,8 +5,8 @@
 
     .dependencies = .{
         .unibilium = .{
-            .url = "git+https://github.com/neovim/unibilium?ref=v2.1.2#bfcb0350129dd76893bc90399cf37c45812268a2",
-            .hash = "N-V-__8AADO1CgCggvx73yptnBlXbEm7TjOSO6VGIqc0CvYR",
+            .url = "git+https://github.com/arpan3t/unibilium?ref=2.1.2#7d2bedd6aea16167fbe8461c75e1b8c891b95184",
+            .hash = "1220872d18742d5277213abbad506066398bc8a14bc82c0ed5dc6e36d9459137a77c",
         },
     },
 }
